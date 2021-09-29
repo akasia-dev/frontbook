@@ -1,7 +1,7 @@
 {
   "package": {
-    "frontbook-cli": {
-      "url": "github.com/akasia-dev/frontbook-cli.git",
+    "frontbook-react": {
+      "url": "github.com/akasia-dev/frontbook-react.git",
       "branch": "main"
     }
   }
