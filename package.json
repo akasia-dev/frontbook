@@ -1,0 +1,10 @@
+{
+  "name": "polyrepo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "polyger"
+  },
+  "devDependencies": {
+    "polyger": "^0.4.4"
+  }
+}

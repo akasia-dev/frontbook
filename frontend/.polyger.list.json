@@ -1,0 +1,8 @@
+{
+  "package": {
+    "frontbook-conti": {
+      "url": "github.com/akasia-dev/frontbook-conti.git",
+      "branch": "main"
+    }
+  }
+}
