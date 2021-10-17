@@ -3,6 +3,10 @@
     "frontbook-conti": {
       "url": "github.com/akasia-dev/frontbook-conti.git",
       "branch": "main"
+    },
+    "frontbook-conti-dist": {
+      "url": "github.com/akasia-dev/frontbook-conti-dist.git",
+      "branch": "main"
     }
   }
 }
