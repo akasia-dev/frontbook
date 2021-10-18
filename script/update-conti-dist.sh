@@ -1,4 +1,4 @@
-# polyger title: 콘티 dist 파일 갱신
+# polyger title: [frontbook-conti] Update the conti dist file
 # Please fill out the command you want below.
 
 projectPath="${PWD}";

@@ -1,7 +1,8 @@
 {
   "subFolders": [
     "frontend",
-    "backend"
+    "backend",
+    "example"
   ],
   "shellScriptFolderName": "script"
 }

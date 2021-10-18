@@ -1,0 +1,8 @@
+{
+  "package": {
+    "frontbook-react-example": {
+      "url": "github.com/akasia-dev/frontbook-react-example.git",
+      "branch": "main"
+    }
+  }
+}
