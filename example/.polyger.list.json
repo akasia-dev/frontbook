@@ -11,6 +11,10 @@
     "frontbook-react-stylejsx-tailwind-example": {
       "url": "github.com/akasia-dev/frontbook-react-stylejsx-tailwind-example.git",
       "branch": "main"
+    },
+    "frontbook-nextjs-example": {
+      "url": "github.com/akasia-dev/frontbook-nextjs-example.git",
+      "branch": "main"
     }
   }
 }

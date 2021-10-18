@@ -22,3 +22,7 @@
 	path = example/frontbook-react-stylejsx-tailwind-example
 	url = https://github.com/akasia-dev/frontbook-react-stylejsx-tailwind-example.git
 	branch = main
+[submodule "example/frontbook-nextjs-example"]
+	path = example/frontbook-nextjs-example
+	url = https://github.com/akasia-dev/frontbook-nextjs-example.git
+	branch = main
