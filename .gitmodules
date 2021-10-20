@@ -1,10 +1,10 @@
-[submodule "frontend/frontbook-conti-dist"]
-	path = frontend/frontbook-conti-dist
-	url = https://github.com/akasia-dev/frontbook-conti-dist.git
-	branch = main
 [submodule "frontend/frontbook-conti"]
 	path = frontend/frontbook-conti
 	url = https://github.com/akasia-dev/frontbook-conti.git
+	branch = main
+[submodule "frontend/frontbook-conti-dist"]
+	path = frontend/frontbook-conti-dist
+	url = https://github.com/akasia-dev/frontbook-conti-dist.git
 	branch = main
 [submodule "backend/frontbook-react"]
 	path = backend/frontbook-react
