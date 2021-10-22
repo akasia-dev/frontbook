@@ -5,6 +5,6 @@
     "start": "polyger"
   },
   "devDependencies": {
-    "polyger": "^0.4.7"
+    "polyger": "^0.4.8"
   }
 }
