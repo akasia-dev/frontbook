@@ -26,3 +26,11 @@
 	path = example/frontbook-nextjs-example
 	url = https://github.com/akasia-dev/frontbook-nextjs-example.git
 	branch = main
+[submodule "backend/frontbook-cli"]
+	path = backend/frontbook-cli
+	url = https://github.com/akasia-dev/frontbook-cli.git
+	branch = main
+[submodule "backend/frontbook-cli-dist"]
+	path = backend/frontbook-cli-dist
+	url = https://github.com/akasia-dev/frontbook-cli-dist.git
+	branch = main

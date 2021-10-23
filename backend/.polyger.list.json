@@ -3,6 +3,14 @@
     "frontbook-react": {
       "url": "github.com/akasia-dev/frontbook-react.git",
       "branch": "main"
+    },
+    "frontbook-cli": {
+      "url": "github.com/akasia-dev/frontbook-cli.git",
+      "branch": "main"
+    },
+    "frontbook-cli-dist": {
+      "url": "github.com/akasia-dev/frontbook-cli-dist.git",
+      "branch": "main"
     }
   }
 }
