@@ -34,3 +34,7 @@
 	path = backend/frontbook-cli-dist
 	url = https://github.com/akasia-dev/frontbook-cli-dist.git
 	branch = main
+[submodule "example/frontbook-nuxtjs-example"]
+	path = example/frontbook-nuxtjs-example
+	url = https://github.com/jiseong-choi/frontbook-nuxtjs-example.git
+	branch = main

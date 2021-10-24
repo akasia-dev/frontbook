@@ -15,6 +15,10 @@
     "frontbook-nextjs-example": {
       "url": "github.com/akasia-dev/frontbook-nextjs-example.git",
       "branch": "main"
+    },
+    "frontbook-nuxtjs-example": {
+      "url": "github.com/jiseong-choi/frontbook-nuxtjs-example.git",
+      "branch": "main"
     }
   }
 }
