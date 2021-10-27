@@ -13,5 +13,4 @@ npm run export;
 cd "${contiDist}";
 rm -rf "${contiDist}/export";
 
-mkdir "${cliDist}/export";
 cp -R "${cliProject}/export" "${cliDist}";
