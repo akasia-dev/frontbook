@@ -6,6 +6,6 @@
     "prestart": "npx prestart"
   },
   "devDependencies": {
-    "polyger": "^0.4.10"
+    "polyger": "^0.4.16"
   }
 }
